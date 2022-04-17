@@ -201,7 +201,6 @@ img {
 }*/
 
 table, th, td{
-  width: 80%;
   margin: auto;
   border: 1px solid white;
   border-collapse: collapse;
