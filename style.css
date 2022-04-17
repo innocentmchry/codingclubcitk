@@ -153,7 +153,7 @@ img {
   align-items: center;
   width: 100%;
   height: 100vh;
-  background: url(./images/buildings.jpg);
+  background: url(https://innocentmochahari.github.io/images/buildings.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center; 
@@ -440,3 +440,24 @@ footer i {
     text-align: center;
   }
 }
+
+
+		#editbtn{
+			background: limegreen;
+		}
+		#deletebtn{
+			background: orangered;
+		}
+		#logoutbtn{			
+			background: #601a2a;
+		}
+		#editbtn, #deletebtn, #logoutbtn {
+			color: white;
+			padding: 10px;
+			font-size: 13px;
+			width: 120px;
+		}
+		#editbtn:hover, #deletebtn:hover, #logoutbtn:hover {
+			background: #000000;
+			
+		}
